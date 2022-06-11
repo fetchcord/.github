@@ -11,9 +11,8 @@
        <img src="https://img.shields.io/discord/742068289278312549?label=Discord&logo=discord&logoColor=white&style=for-the-badge">
     </a>
     <a href="https://img.shields.io/badge/Compatible-MacOS%2FWindows%2FLinux-brightgreen?style=for-the-badge&logo=discord">
-       <img src="https://cdn.discordapp.com/attachments/695182849476657223/742064452421288077/FetchDis.png"
+       <img src="https://user-images.githubusercontent.com/55695493/173207772-9db81c0d-421d-4eee-bccc-5b9801283710.png">
     </a>
-  
   </a>
 </p>
 
