@@ -166,10 +166,10 @@ Fetchcord now has a website! You can find this site over at https://fetchcord.gi
 ## Examples
 
 ### Operating Systems
-![MacOS bigsur](Examples/mac.png) ![Windows 10](Examples/windows.png) ![Ubuntu](Examples/ubuntu.png)
+![MacOS BigSur](https://github.com/fetchcord/FetchCord/raw/master/Examples/mac.png) ![Windows 10](https://github.com/fetchcord/FetchCord/raw/master/Examples/windows.png) ![Ubuntu](https://github.com/fetchcord/FetchCord/raw/master/Examples/ubuntu.png)
 ### Terminals
-![Konsole](Examples/konsole.png) ![Gnome terminal](Examples/gnometerm.png) ![Apple terminal](Examples/appleterm.png)
+![Konsole](https://github.com/fetchcord/FetchCord/raw/master/Examples/konsole.png) ![Gnome Terminal](https://github.com/fetchcord/FetchCord/blob/master/Examples/gnometerm.png) ![Apple Terminal](https://github.com/fetchcord/FetchCord/blob/master/Examples/appleterm.png)
 ### Cpus
-![Ryzen 9](Examples/ryzencpu.png) ![Intel i7](Examples/intelcpu.png) ![Intel pentium](Examples/pent.png)
+![Ryzen 9](https://github.com/fetchcord/FetchCord/raw/master/Examples/ryzencpu.png) ![Intel i7](https://github.com/fetchcord/FetchCord/raw/master/Examples/intelcpu.png) ![Intel Pentium](https://github.com/fetchcord/FetchCord/raw/master/Examples/pent.png)
 ### Hosts
-![HP laptop](Examples/hp.png) ![TUF gaming laptop](Examples/tuf.png) ![Lenovo desktop](Examples/len.png)
+![HP Laptop](https://github.com/fetchcord/FetchCord/raw/master/Examples/hp.png) ![TUF Gaming Laptop](https://github.com/fetchcord/FetchCord/raw/master/Examples/tuf.png) ![Lenovo Desktop](https://github.com/fetchcord/FetchCord/raw/master/Examples/len.png)
